@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="FABIconSize">50dp</dimen>
+    <dimen name="FABHeight">75dp</dimen>
+    <dimen name="FABWidth">200dp</dimen>
+    <dimen name="ResultTextSize">72sp</dimen>
+    <dimen name="ResultTopMargin">90dp</dimen>
+    <dimen name="HeadsCounterTopMargin">100dp</dimen>
+    <dimen name="CoinsResultTextSize">32sp</dimen>
+    <dimen name="TailsMarginEnd">64dp</dimen>
+    <dimen name="FABWidthMain">300dp</dimen>
+    <dimen name="FABHeightMain">100dp</dimen>
+    <dimen name="MainFABIconPadding">25dp</dimen>
+    <dimen name="MainFABIconSize">60dp</dimen>
+    <dimen name="MainFABTextSize">30dp</dimen>
+</resources>

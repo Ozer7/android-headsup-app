@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Heads Up!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable_night_mode">Enable Night Mode</string>
+    <string name="flip_on_app_start">Flip on App Start</string>
+    <string name="settings_title">Settings</string>
+    <string name="switch_on">On</string>
+    <string name="switch_off">Off</string>
+    <string name="reset">Reset</string>
+    <string name="FABText">Flip Coin</string>
+    <string name="ResultOriginalText">Flip coin!</string>
+    <string name="HeadsCounterOriginal">Heads: 0</string>
+    <string name="TailsCounterOriginal">Tails: 0</string>
+    <string name="heads">Heads</string>
+    <string name="tails">Tails</string>
+    <string name="about_message">
+    Flip a coin with a tap and keep track of how many heads and tails you get.
+    Customize your experience with:\n
+    • Night Mode for low-light comfort\n
+    • Auto-Flip on startup for instant fun\n\n
+    Developer: Oriel Zer\n
+    © 2025 Heads Up! Inc.
+    </string>
+    <string name="about_title">Welcome to <b>Heads Up!</b>\n\n</string>
+    <string name="headsupabout">HeadsUp! Version 1.0 A simple coin-flip tracker app.</string>
+    <string name="enable_night_mode_text">Enable Night Mode</string>
+    <string name="flip_coin_on_app_start_text">Flip Coin on App Start</string>
+    <string name="FAB_back_button_text">Back</string>
+    <string name="FAB_Flip_text">Flip</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="reset_label">Reset</string>
+</resources>

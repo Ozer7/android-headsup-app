@@ -1,0 +1,14 @@
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryVariant">#F57C00</color>
+    <color name="colorSecondary">#FFC107</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#BDE5FB</color>
+    <color name="ResultCoin">#00E6FF</color>
+    <color name="Coins">#008BCD</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+</resources>
